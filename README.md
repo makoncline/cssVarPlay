@@ -1,2 +1,2 @@
-# Javascript30 Template
-Single page website development environment with Prettier, ESLint, and airbnb formatting guidelines.
+# CSS Variable Playground
+Changing CSS variable with javascript. Part of the [Javascript30](http://javascript30.com) challenge
